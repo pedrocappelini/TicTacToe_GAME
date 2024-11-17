@@ -48,6 +48,7 @@ java Gameplay</code></pre>
   <li>Players take turns to click on a cell to place either an X or an O.</li>
   <li>The first player to align three marks horizontally, vertically, or diagonally wins the game.</li>
   <li>If all cells are filled and there is no winner, the game ends in a draw.</li>
+  <li>If the games ends in a win or a draw, press backspace for reseting.</li>
 </ol>
 
 <h2>Game Logic</h2>
