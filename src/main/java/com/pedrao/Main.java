@@ -63,7 +63,7 @@ public class Main extends Canvas implements Runnable, KeyListener{
     }
 
     public void setupFrame(){
-        JFrame frame = new JFrame("foda");
+        JFrame frame = new JFrame("TicTacToe_Demo");
         frame.setUndecorated(false);
         frame.setMinimumSize(getMinimumSize());
         frame.setSize(getPreferredSize());
